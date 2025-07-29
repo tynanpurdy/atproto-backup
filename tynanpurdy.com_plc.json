@@ -1,0 +1,19 @@
+{
+  "did": "did:plc:6ayddqghxhciedbaofoxkcbs",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shaiZe5JEJYHa3NDfgXXSoCU33quhh3zhZKNkwuWfoNHbT"
+  },
+  "rotationKeys": [
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "alsoKnownAs": [
+    "at://tynanpurdy.com"
+  ],
+  "services": {
+    "atproto_pds": {
+      "type": "AtprotoPersonalDataServer",
+      "endpoint": "https://puffball.us-east.host.bsky.network"
+    }
+  }
+}
