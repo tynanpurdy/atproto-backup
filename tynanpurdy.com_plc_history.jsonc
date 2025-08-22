@@ -61,3 +61,25 @@
     "atproto": "did:key:zQ3shaiZe5JEJYHa3NDfgXXSoCU33quhh3zhZKNkwuWfoNHbT"
   }
 }
+{
+  "alsoKnownAs": [
+    "at://tynanpurdy.com"
+  ],
+  "prev": "bafyreiahecji6ixnpevjjthxlsg7vbk3sim3meydkgbysvshuev7r63mg4",
+  "rotationKeys": [
+    "did:key:zQ3shuV9cXsfNoFdS6szQqBbJZ5BnJ7MGk5x7Q8qFBUfBggPK",
+    "did:key:zQ3shhCGUqDKjStzuDxPkTxN6ujddP4RkEKJJouJGRRkaLGbg",
+    "did:key:zQ3shpKnbdPx3g3CmPf5cRVTPe1HtSwVn5ish3wSnDPQCbLJK"
+  ],
+  "services": {
+    "atproto_pds": {
+      "endpoint": "https://puffball.us-east.host.bsky.network",
+      "type": "AtprotoPersonalDataServer"
+    }
+  },
+  "sig": "krh-GKjR00FZd464IturaarGmitDO2D7d_4AF6c68al_uZAwBdshvbYYxWxOYDVGmDWCV6KVWTa_01R2dJXPvQ",
+  "type": "plc_operation",
+  "verificationMethods": {
+    "atproto": "did:key:zQ3shaiZe5JEJYHa3NDfgXXSoCU33quhh3zhZKNkwuWfoNHbT"
+  }
+}
